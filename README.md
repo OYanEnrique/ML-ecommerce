@@ -15,7 +15,7 @@ O foco deste projeto foi aliar métricas técnicas de Inteligência Artificial a
 2. **Modelagem Preditiva:** Comparar algoritmos clássicos, ensembles avançados e Deep Learning para encontrar a melhor performance.
 3. **Otimização de Hiperparâmetros (Optuna):** Ajuste fino com foco obsessivo na métrica de **Recall**, garantindo que não deixaremos compradores reais escaparem (minimizando Falsos Negativos).
 4. **Explicabilidade (SHAP):** Desvendar a "caixa preta" do modelo para fornecer insights estratégicos acionáveis para o time de Marketing.
-5. **Deploy (Streamlit):** Construção de uma interface interativa para apresentar o projeto.
+5. **Deploy (Streamlit):** Construção de uma interface interativa para apresentar o projeto. [Acesse o App Online Aqui!](https://ml-ecommerce.streamlit.app/)
 
 ---
 
@@ -168,6 +168,8 @@ Imagine que **1.710 visitantes** passaram pelo e-commerce hoje:
 
 ## 💻 Deploy em Produção
 O modelo não vai parar no notebook! Foi desenvolvido um aplicativo via **Streamlit** para permitir que usuários e times de negócio possam simular o comportamento de navegação e ver as previsões da Inteligência Artificial trabalhando em tempo real.
+
+🚀 **Acesse a aplicação ao vivo aqui:** [https://ml-ecommerce.streamlit.app/](https://ml-ecommerce.streamlit.app/)
 
 ---
 
