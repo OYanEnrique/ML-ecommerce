@@ -151,6 +151,10 @@ Rodamos o modelo Campeão (XGBoost) em **dados completamente inéditos** simulan
   <img src="assets/Matriz%20de%20Confus%C3%A3o%20XGBoost%20Dados%20de%20Teste.png" alt="Matriz de Confusão Dados de Teste" width="500">
 </div>
 
+<div align="center">
+  <img src="assets/XGBoost%20Validado%20vs%20Teste.png" alt="XGBoost Validado vs Teste" width="700">
+</div>
+
 ### O Veredito de Negócio (A Simulação):
 Imagine que **1.710 visitantes** passaram pelo e-commerce hoje:
 * O modelo identificou perfeitamente **197 pessoas** que queriam comprar. Demos o "empurrãozinho" certo (ex: cupom) e fechamos negócio.
