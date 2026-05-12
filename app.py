@@ -11,8 +11,8 @@ st.set_page_config(page_title="Preditor de Compras", page_icon="💰")
 @st.cache_resource
 def load_model_and_scaler():
     model = XGBClassifier()
-    model.load_model('xgboost_tunado.json')
-    scaler = joblib.load('scaler.pkl')
+    model.load_model('modelo/modelo.json')
+    scaler = joblib.load('scaler/scaler.pkl')
     return model, scaler
 
 try:
