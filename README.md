@@ -175,7 +175,21 @@ O modelo não vai parar no notebook! Foi desenvolvido um aplicativo via **Stream
 
 ## 👨‍💻 Contato e Autor
 
-Desenvolvido por **Yan Enrique** 🚀
+<br>
 
-* **GitHub:** [OYanEnrique](https://github.com/OYanEnrique)
-* O projeto engloba ponta a ponta o trabalho de um Cientista de Dados: desde a ingestão (DVC, MLFlow) e limpeza, passando pela exploração de negócio, até o tunning de Machine Learning profundo e deploy.
+<div align="center">
+
+<br>
+
+**Autor do Projeto:** [Yan Enrique (OYanEnrique)](https://github.com/OYanEnrique)  
+*(Cientista de Dados | Machine Learning Engineer)*
+
+* O projeto englobou de ponta a ponta o trabalho de um Cientista de Dados: desde a ingestão (DVC, MLFlow) e limpeza, passando pela exploração de negócio, até o tunning de Machine Learning profundo e deploy.
+
+</div>
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
